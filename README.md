@@ -1,2 +1,2 @@
 # PLPC-Doc
-<a href='./gen.doc/main.md'> Here </a>
+<a href='https://github.com/Supoijar-org-PLPC/PLPC-Doc/blob/master/gen.doc/index.md'> Here </a>
