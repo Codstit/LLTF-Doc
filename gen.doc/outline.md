@@ -11,9 +11,17 @@
     Supoijar.org Lesser Libre Public License (All/Codes/- Files/Docs) (S-LLPL)  
     低自由ライセンス
 
-- Supoijar.org 研究公衆ライセンス  
-    Supoijar.org Research Libre Public License (All/Codes/Files/Docs) (S-RLPL)  
-    研究プロジェクト向け自由ライセンス
+- Supoijar.org 学術公衆ライセンス  
+    Supoijar.org Academic Libre Public License (All/Codes/Files/Docs) (S-ALPL)  
+    研究プロジェクトその他学術向け自由ライセンス
+
+- Supoijar.org 教育公衆ライセンス  
+    Supoijar.org Educational Libre Public License (All/Codes/Files/Docs) (S-ELPL)  
+    教育的プロジェクトや教育活動向け自由ライセンス
+
+- Supoijar.org 公共公衆ライセンス  
+    Supoijar.org Communal Libre Public License (All/Codes/Files/Docs) (S-CLPL)  
+    公用プロジェクト公共用途向け自由ライセンス
 
 - Supoijar.org 公有化公衆ライセンス  
     Supoijar.org Nil Public License (All/Codes/Files/Docs) (S-NPL)  
